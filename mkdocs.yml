@@ -7,7 +7,6 @@ theme:
         - navigation.path
     palette:
       # Palette toggle for light mode
-      - media: "(prefers-color-scheme: light)"
       - scheme: default
       - primary: indigo
       - accent: deep-orange
@@ -16,7 +15,6 @@ theme:
           name: Switch to dark mode
 
       # Palette toggle for dark mode
-      - media: "(prefers-color-scheme: dark)"
       - scheme: slate
       - primary: indigo
       - accent: deep-orange
