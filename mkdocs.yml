@@ -33,7 +33,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/sethschori
       name: GitHub
-  copyright: Copyright 2024 Seth Schori
 
 # Extensions
 markdown_extensions:
