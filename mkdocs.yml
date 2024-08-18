@@ -3,6 +3,9 @@ site_name: Seth Schori
 theme:
     name: 'material'
     custom_dir: overrides
+    features:
+        - navigation.sections
+        - navigation.path
     palette:
 
     # Light mode
