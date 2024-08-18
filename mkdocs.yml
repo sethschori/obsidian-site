@@ -25,6 +25,16 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon 
+      link: https://social.coop/@sethschori
+      name: sethschori on Mastodon (social.coop)
+    - icon: fontawesome/brands/github
+      link: https://github.com/sethschori
+      name: GitHub
+  copyright: Copyright 2024 Seth Schori
+
 # Extensions
 markdown_extensions:
   - footnotes
