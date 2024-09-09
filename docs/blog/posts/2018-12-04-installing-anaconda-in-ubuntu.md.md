@@ -1,7 +1,7 @@
 ---
 draft: false
-title:  "Installing Anaconda in Ubuntu"
-date:   2018-12-04
+title: "Installing Anaconda in Ubuntu"
+date: 2018-12-04
 slug: installing-anaconda-in-ubuntu
 categories:
   - data science
