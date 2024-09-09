@@ -2,7 +2,7 @@
 draft: false
 title: "Getting Started with conda"
 date: 2018-12-06
-slug: getting-started-with-cond
+slug: getting-started-with-conda
 categories:
   - data science
 tags:

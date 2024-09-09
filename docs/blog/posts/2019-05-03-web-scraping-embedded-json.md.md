@@ -9,4 +9,4 @@ tags:
   - meta data science
 ---
 
-![code snippet](https://github.com/sethschori/scraping/blob/master/cleantech100.py#L41-L87)
+![code snippet](https://github.com/sethschori/scraping/blob/master/scripts/cleantech100.py#L41-L87)
