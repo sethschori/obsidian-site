@@ -3,9 +3,10 @@ draft: false
 title: "Sorting and Filtering in pandas"
 date: 2019-01-01
 slug: sorting-and-filtering-in-pandas
-categories: data-science 
+categories:
+  - data science 
 tags:
-- pandas
+  - pandas
 ---
 
 ## Sorting
