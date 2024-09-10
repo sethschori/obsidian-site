@@ -1,4 +1,2 @@
 # Hello
-I'm interested in many things. :smile: :mastodon:
-
-To be continued...
+I'm Seth and this is my digital garden and blog. A digital g
