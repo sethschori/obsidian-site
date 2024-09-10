@@ -1,2 +1,3 @@
 # Hello
-I'm Seth and this is my digital garden and blog. My intention with this [digital garden](https://lyz-code.github.io/blue-book/digital_garden/) is to have a place to put information I learn and to build and share knowledge. Unlike blog posts, the entries in this learning garden won't be polished pieces of writing. In fact, if I'm successful at using there will always be entries 
+I'm Seth and this is my digital garden and blog. My intention with this [digital garden](https://lyz-code.github.io/blue-book/digital_garden/) is to have a place to put information I learn and to build and share knowledge. Unlike blog posts, the entries in this learning garden won't be polished pieces of writing. In fact, if I'm successful at using my garden, there will always be incomplete entries. That's because my attitude 
+Some topics I may cultivate in this garden will include: degrowth, 
