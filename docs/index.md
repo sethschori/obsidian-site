@@ -3,4 +3,4 @@ I'm Seth and this is my digital garden and blog. My intention with this [digital
 
 Some topics I may cultivate in my garden include: degrowth, post-capitalism, the solidarity economy, permaculture, and technology.
 
-My [blog](blog/) is currently a dozen technology-related articles from 2018-2019 when I was considering a career path in data science, so pretty dated, but I figured I'd leave it as is. If I have future writing that feels more blog-like than garden-like then I'll stick it in the blog section.
+My [blog](blog/) is currently a dozen technology-related articles from 2018-2019 when I was considering a career path in data science, so pretty dated stuff, but I figured I'd leave it as is. If I have future writing that feels more blog-like than garden-like then I'll stick it in the blog section.
