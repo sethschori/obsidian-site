@@ -1,0 +1,2 @@
+I've wondered about the difference between 
+[Post-growth, degrowth, the doughnut and circular economy: a short guide](https://ontgroei.degrowth.net/post-growth-degrowth-the-doughnut-and-circular-economy-a-short-guide/) ([original post](https://planetamateur.com/2022/11/07/post-growth-degrowth-the-doughnut-and-circular-economy-a-short-guide/)) 
